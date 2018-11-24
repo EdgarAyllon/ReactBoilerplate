@@ -13,8 +13,13 @@ node_modules/
 npm-debug.log
 package-lock.json
 
+#cache
+.cache/**
+
 # Tests
 coverage/
 
 # VS Code
 .vs
+# package managers
+*.lock

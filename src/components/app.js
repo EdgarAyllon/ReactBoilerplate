@@ -4,3 +4,4 @@ class App extends Component{
         return <div>Here we go</div>
     }
 }
+export default App;
